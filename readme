@@ -1,0 +1,5 @@
+Coaxial Propeller Drone Project Jan-2020
+
+Working parts list (as drone gets built)
+- MPU6050 lib for gyroscope/accelerometer
+- Arduino Nano with ATmega328P
